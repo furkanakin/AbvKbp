@@ -1,4 +1,7 @@
-<?php include 'header.php';?>
-<?php include 'sidebar-left.php';?>
-<?php include 'sidebar-right.php';?>
-<?php include 'footer.php';?>
+<?php 
+include 'set.php';
+include 'header.php';
+include 'sidebar-left.php';
+include 'content.php';
+include 'footer.php';
+?>
